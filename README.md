@@ -6,16 +6,17 @@
 
 ▶️ O que foi desenvolvido:
 
-  -Template da promoção fictícia;
-  -Landing page de promoções, estilo black friday;
-  -Formulário com cadastro de email para recebimento de promoções;
-  -Dados armazenados no localstorage.
+-Template da promoção fictícia;
+-Landing page de promoções, estilo black friday;
+-Formulário com cadastro de email para recebimento de promoções;
+-Dados armazenados no localstorage;
+-Deploy no Netlify: https://lego-friday.netlify.app/
  
-P.S.:A logo e as imagens foram encontradas no Google. Nao é uma página oficial do Lego.
+P.S.:A logo e as imagens foram encontradas no Google. Nao é uma página promocional oficial da Lego®.
 
 💻 Como contribuir
-- Faça um fork desse projeto.
-- Crie uma nova branch para trabalhar: git checkout -b my-feature
-- Faça commit da sua feature: git commit -m "feature: My new feature"
-- Envie as suas alterações: git push origin my-feature
-- Solicite uma Pull Request para o diretório original
+- Faça um fork desse projeto;
+- Crie uma nova branch para trabalhar: git checkout -b my-contribution;
+- Faça commit da sua contribution: git commit -m "Contribution: My new contribution";
+- Envie as suas alterações: git push origin my-contribution;
+- Solicite uma Pull Request para o diretório original.
