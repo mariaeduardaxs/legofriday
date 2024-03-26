@@ -1,8 +1,9 @@
 # legofriday
 
 📑 Sobre o projeto
-- Projeto desenvolvido para o Desafio 1 do Hiring Coders, que consiste em criar uma landing page de e-commerce para a Black Friday.
-- A landing page fictícia foi inspirada na loja de brinquedos Lego®.
+- Projeto desenvolvido para o Desafio 1 do Hiring Coders, que consiste em criar uma landing page de e-commerce para a Black Friday;
+- A landing page fictícia foi inspirada na loja de brinquedos Lego® (todos os direitos autorais reservados);
+- OBS.: Layout específico para desktop (o projeto não possui boas práticas de layout responsivo para tablet/mobile :/ )
 
 ▶️ O que foi desenvolvido:
 
